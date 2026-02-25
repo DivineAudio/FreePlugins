@@ -1,2 +1,2 @@
 
-![Distressor](Distressor/screenshot.png)
+![Distressor](screenshot.png)
